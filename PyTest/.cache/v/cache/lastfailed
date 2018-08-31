@@ -1,0 +1,8 @@
+{
+  "src/main/test_fial.py::test_fail": true,
+  "src/tests/fail_test.py::fail_test": true,
+  "src/tests/fail_test.py::test_fail": true,
+  "src/tests/fail_test.py::test_ok": true,
+  "src/tests/main_test.py": true,
+  "src/tests/test_fial.py::test_fail": true
+}
