@@ -20,7 +20,7 @@ def redis_uri():
 
 
 if False:
-    db2 = parse('mysql://root:88meeting@meeting.ckm8z9g0pwyk.ap-southeast-1.rds.amazonaws.com:3307/meeting')
+    db2 = parse('mysql://root:88test@meeting.test.test.com:3307/test')
     print(db2)
 
     print(type(db2.get('port')))
